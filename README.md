@@ -43,8 +43,7 @@ git clone https://github.com/TheRuchirShah/Web-Technology-Fingerprinter.git
 ## 📁 Project Strucure
 
 ```
-Web-Technology-Fingerprinter/
-│
+.Web-Technology-Fingerprinter/
 ├── manifest.json        # Extension manifest
 ├── popup.html           # Popup UI layout
 ├── popup.css            # Popup styling
