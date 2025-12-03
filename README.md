@@ -1,4 +1,4 @@
-# Web-Technology-Fingerprinter
+# Web Technology Fingerprinter
 
 A lightweight browser extension that identifies the technologies used by any webpage — including CMSs, JavaScript frameworks, analytics tools, and more. Detects the technology stack of any webpage including CMS, JS frameworks, analytics, and more. Works as a Chrome/Firefox extension.
 
