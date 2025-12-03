@@ -41,6 +41,8 @@ git clone https://github.com/TheRuchirShah/Web-Technology-Fingerprinter.git
 4.  Choose the manifest.json file
 
 ## 📁 Project Strucure
+
+```
 Web-Technology-Fingerprinter/
 │
 ├── manifest.json        # Extension manifest
@@ -48,6 +50,7 @@ Web-Technology-Fingerprinter/
 ├── popup.css            # Popup styling
 ├── popup.js             # Technology detection logic
 └── README.md
+```
 
 
 ## ⚙️ How It Works
