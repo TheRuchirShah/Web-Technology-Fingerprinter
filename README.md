@@ -75,6 +75,3 @@ Contributions are welcome!
 4. Open a Pull Request with details
 
 Feel free to add new technology signatures, enhance detection, or improve UI/UX.
-3. Commit your changes
-4. Open a Pull Request with details
-Feel free to add new technology signatures, enhance detection, or improve UI/UX.
